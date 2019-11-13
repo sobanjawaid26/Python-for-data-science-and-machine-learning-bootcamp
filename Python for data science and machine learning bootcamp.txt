@@ -1,0 +1,6 @@
+// numpy
+
+import numpy as np
+np.array(my_array)
+np.array(my_matrix)
+np.aranage(0,9)
