@@ -4,3 +4,26 @@ import numpy as np
 np.array(my_array)
 np.array(my_matrix)
 np.aranage(0,9)
+np.zeros(numberOfElement)
+np.zeros(3)
+np.zeros(numberOfrowa, noOfColumns)
+np.zeros(3,4)
+np.ones(3)
+np.ones(2,3)
+np.linspace(start, stop, noOfElement)
+np.linspace(0,9,10)
+np.eye(3) - Identity Matrix
+np.random.rand() - array with random element
+return sample from standard normal distribution
+np.random.randn(3)
+np.random.randn(3,4)
+np.random.randint(1,10) - one random integer between 1 and 10
+np.random.randint(1,10,10) - ten random integer between 1 and 10
+arr.reshape(numOfRows, numOfColumns)
+arr.max() - return maximum element from the array arr
+similarly for min
+arr.argmax() - returns the index location of max value
+
+
+
+arr_copy = arr.copy()
